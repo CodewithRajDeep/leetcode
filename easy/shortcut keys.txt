@@ -1,0 +1,7 @@
+debug leetcode - delete + a
+
+submit to leetcode - padeup + s
+
+test to leetcode - pageup + t 
+
+show top voted submission - home
