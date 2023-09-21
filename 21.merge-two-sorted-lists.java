@@ -21,7 +21,7 @@ import java.util.ArrayList;
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         int key;
-	ListNode next;
+	    ListNode next;
 
 	public Node(int key) {
 		this.key = key;
@@ -29,7 +29,7 @@ class Solution {
 	} 
      ListNode(int key) 
      { this.val = val; 
-  this.val = val; this.next = next; }
+       this.val = val; this.next = next; }
  
 
 
